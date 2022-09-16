@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+{% seo %}
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <meta name="viewport" content="width=device-width">
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <img src="images/ncstate-brick-4x1-red.png" alt="NCSU" width="150">
+        
+        <a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
+        <p><a href="https://github.com/peterwhitman/peterwhitman.github.io//about.md">About</a></p>
+        <p><a href="https://github.com/peterwhitman/peterwhitman.github.io//projects.md">Projects</a></p>
+        <p><a href="https://mmamanat.github.io/images/Coffer_CV.pdf" target="\blank">CV</a></p>
+
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+          <p><small>Project by {{ site.github.owner_name }} <br> 
+          Original Theme by orderedlist</a></small></p>
+      </footer> 
+    </div>
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+
+  </body>
+</html>
