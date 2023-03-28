@@ -13,7 +13,7 @@ I am a post-master's ORISE fellow at the U.S. Environmental Protection Agency (E
 <img align="left" width="20" height="20" src="https://peterwhitman.github.io/logos/orcid.png"> [ORCiD](https://orcid.org/0000-0001-9207-0177) 
 
 <img class="valign" src="https://peterwhitman.github.io/logos/researchgate.png" width="20px" height="20px"><a class="valign" href="https://www.researchgate.net/profile/Peter-Whitman-2"> ResearchGate, </a>
-<img class="valign" src="https://peterwhitman.github.io/logos/google_scholar.png" width="20px" height="20px"><a class="valign" href="ttps://scholar.google.com/citations?user=LsvNktAAAAAJ&hl=en&authuser=1"> ResearchGate, </a>
+<img class="valign" src="https://peterwhitman.github.io/logos/google_scholar.png" width="20px" height="20px"><a class="valign" href="ttps://scholar.google.com/citations?user=LsvNktAAAAAJ&hl=en&authuser=1"> Google Scholar, </a>
 
 
 
