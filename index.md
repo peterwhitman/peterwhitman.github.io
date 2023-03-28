@@ -6,11 +6,11 @@ I am a post-master's ORISE fellow at the U.S. Environmental Protection Agency (E
 
 ### Follow me on: 
 
-<img align="left" width="20" height="20" src="https://peterwhitman.github.io/logos/researchgate.png" alt="Resume application project app icon">
-<img align="left" width="20" height="20" src="https://peterwhitman.github.io/logos/google_scholar.png" alt="Resume application project app icon">
-<img align="left" width="20" height="20" src="https://peterwhitman.github.io/logos/linkedin.png" alt="Resume application project app icon">
-<img align="left" width="20" height="20" src="https://peterwhitman.github.io/logos/github.png" alt="Resume application project app icon">
-<img align="left" width="20" height="20" src="https://peterwhitman.github.io/logos/orcid.png" alt="Resume application project app icon">
+<img align="left" width="20" height="20" src="https://peterwhitman.github.io/logos/researchgate.png">
+<img align="left" width="20" height="20" src="https://peterwhitman.github.io/logos/google_scholar.png">
+<img align="left" width="20" height="20" src="https://peterwhitman.github.io/logos/linkedin.png">
+<img align="left" width="20" height="20" src="https://peterwhitman.github.io/logos/github.png">
+<img align="left" width="20" height="20" src="https://peterwhitman.github.io/logos/orcid.png">
 
 [GitHub](https://github.com/peterwhitman),[LinkedIn](https://www.linkedin.com/in/peter-whitman/),  [ResearchGate](https://www.researchgate.net/profile/Peter-Whitman-2), [Google Scholar](https://scholar.google.com/citations?user=LsvNktAAAAAJ&hl=en&authuser=1), [ORCiD](https://orcid.org/0000-0001-9207-0177)
 
