@@ -1,6 +1,6 @@
 ![projects](https://peterwhitman.github.io/images/cyan.png)
 
-<h3>Oil</h3>
+<h1>Oil</h1>
 
 # Cyanobacterial Blooms 
 
