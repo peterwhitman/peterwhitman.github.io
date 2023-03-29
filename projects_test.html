@@ -1,32 +1,55 @@
-<!doctype html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.subsection {
+    display: flex;
+}
+.subsection-content {
+    text-align: left;
+    padding-left: 10px;
+}
 
-{% seo %}
+.re-format {
+  display: inline-flex;
+  flex-direction: column;
+}
 
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <meta name="viewport" content="width=device-width">
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
-        <p><a href="index">About</a></p>
-        <p><a href="projects_test">Projects</a></p>
-        <p><a href="https://peterwhitman.github.io/files/Whitman_Resume.pdf" target="\blank">Resume</a></p>
-        <p><a href="https://peterwhitman.github.io/files/Whitman_CV.pdf" target="\blank">Curriculum Vitae</a></p>
+.re-format img {
+  padding: 50px 0 0 50px;
+  width: 200px;
+  height: 300px;
+}
 
-      </header>
-      <section>
+.re-format h3 {
+  color: #474747;
+  text-shadow: none;
+  padding: 40px;
+  padding-left: 0px;
+  text-align: left;
+}
 
-      {{ content }}
 
-      </section>
+</style>
+</head>
+<body>
+<div class="re-format">
+  <div class="subsection">
+    <!-- bring the image out of the subsection content so it can displayed independent of the right column -->
+    <img src="https://peterwhitman.github.io/logos/google_scholar.png">
+    <div class="subsection-content">
+      <h3>Oil</h3>
+      <p>Archived aerial images act as an extensive historical record, which can be used to extract information about past landscapes. Within the lower Fraser River, ongoing efforts to compute accurate sediment budget calculations have established a need for areal estimates of surficial sand and gravel that correspond to hydrographic surveys conducted in 1952, 1984, 1999, and 2008. The analog aerial images captured during these survey dates record the reflectance characteristics of sand and gravel differently than contemporary digital aerial images. These differences were simulated in digital images captured in April 2018 and paired with ground truthed reference data to develop a classification that can be used to delineate patches of sand and gravel in analog aerial images of the lower Fraser River.</p>
     </div>
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
-
-  </body>
+  </div>  
+  <div class="subsection">
+    <!-- bring the image out of the subsection content so it can displayed independent of the right column -->
+    <img src="https://peterwhitman.github.io/logos/google_scholar.png">
+    <div class="subsection-content">
+      <h3>Hydro Energy</h3>
+      <p>While at Carthage College, I developed mobile application for departments within the natural sciences, so that data  gathered during labs and field research could be systematically collected and accumulated on a inter-departmental server.<br>While at Carthage College, I developed mobile application for departments within the natural sciences, so that data  gathered during labs and field research could be systematically collected and accumulated on a inter-departmental server.<br>While at Carthage College, I developed mobile application for departments within the natural sciences, so that data  gathered during labs and field research could be systematically collected and accumulated on a inter-departmental server.</p>
+    </div>
+  </div>
+</div>
+</body>
 </html>
-
