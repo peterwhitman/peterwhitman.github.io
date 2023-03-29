@@ -8,8 +8,6 @@
 
 # Gravel Bed Rivers
 
-# Out-of-Hospital Cardiac Arrest Outcomes
-
 # Carthage College Field Work Mobile Application
 
 # Buckthorn
