@@ -1,6 +1,56 @@
-<h1>Oil</h1>
+/* display subsection as a flex box; default direction is row */
+.subsection {
+    display: flex;
+}
+.subsection-content {
+    text-align: left;
+    /* add a small padding to the left */
+    padding-left: 10px;
+}
 
-<p><img src="https://peterwhitman.github.io/logos/google_scholar.png" width="100px" height="100px"/>lfajdl;kfasdl;kfjasdl;kfjads;lkfjadsl;kfjal;skdjf;lasd adskljfasl;dkjfa;klsdjf;alkds adskfja;lsdkjfa;lskdf asdkfljas;ldkfjad kdjf;alsdjkf dalkdjfalkds adkfjaskdf dkjfaskd ksdfkd dkfj dks;dlfja dkajfdfkjsd sdfkjsdjk </p>
+.re-format {
+  display: inline-flex;
+  flex-direction: column
+}
+
+.re-format img {
+  padding: 50px 0 0 50px;
+  width: 200px;
+  height: 300px;
+}
+
+.re-format h3 {
+  color: #474747;
+  text-shadow: none;
+  padding: 40px;
+  padding-left: 0px;
+  text-align: left;
+}
+
+.re-format p {
+  font-family: candara;
+  color: #474747;
+  font-size: 20px;
+}
+
+<div class="re-format">
+  <div class="subsection">
+    <!-- bring the image out of the subsection content so it can displayed independent of the right column -->
+    <img src="https://peterwhitman.github.io/logos/google_scholar.png">
+    <div class="subsection-content">
+      <h3>Oil</h3>
+      <p>Archived aerial images act as an extensive historical record, which can be used to extract information about past landscapes. Within the lower Fraser River, ongoing efforts to compute accurate sediment budget calculations have established a need for areal estimates of surficial sand and gravel that correspond to hydrographic surveys conducted in 1952, 1984, 1999, and 2008. The analog aerial images captured during these survey dates record the reflectance characteristics of sand and gravel differently than contemporary digital aerial images. These differences were simulated in digital images captured in April 2018 and paired with ground truthed reference data to develop a classification that can be used to delineate patches of sand and gravel in analog aerial images of the lower Fraser River.</p>
+    </div>
+  </div>  
+  <div class="subsection">
+    <!-- bring the image out of the subsection content so it can displayed independent of the right column -->
+    <img src="images/dam2.jpg">
+    <div class="subsection-content">
+      <h3>Hydro Energy</h3>
+      <p>para about hydro <br>para about company<br> para about some other stuff</p>
+    </div>
+  </div>
+</div>
 
 # Cyanobacterial Blooms 
 
