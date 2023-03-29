@@ -1,8 +1,6 @@
-![projects](https://peterwhitman.github.io/images/cyan.png)
-
 <h1>Oil</h1>
 
-<img src="https://peterwhitman.github.io/logos/google_scholar.png" width="100px" height="100px"> lfajdl;kfasdl;kfjasdl;kfjads;lkfjadsl;kfjal;skdjf;lasd adskljfasl;dkjfa;klsdjf;alkds adskfja;lsdkjfa;lskdf asdkfljas;ldkfjad kdjf;alsdjkf</a>
+<p><img src="https://peterwhitman.github.io/logos/google_scholar.png" width="100px" height="100px"/>lfajdl;kfasdl;kfjasdl;kfjads;lkfjadsl;kfjal;skdjf;lasd adskljfasl;dkjfa;klsdjf;alkds adskfja;lsdkjfa;lskdf asdkfljas;ldkfjad kdjf;alsdjkf</p>
 
 # Cyanobacterial Blooms 
 
