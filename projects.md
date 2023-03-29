@@ -1,16 +1,14 @@
-/* display subsection as a flex box; default direction is row */
 .subsection {
     display: flex;
 }
 .subsection-content {
     text-align: left;
-    /* add a small padding to the left */
     padding-left: 10px;
 }
 
 .re-format {
   display: inline-flex;
-  flex-direction: column
+  flex-direction: column;
 }
 
 .re-format img {
