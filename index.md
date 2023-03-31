@@ -1,3 +1,5 @@
+![pic](https://peterwhitman.github.io/images/antlers.jpg)
+
 # About
 
 I am a post-master's ORISE fellow at the U.S. Environmental Protection Agency (EPA) Office of Research and Development. I work under the guidance of [Dr. Blake Schaeffer](https://www.epa.gov/sciencematters/meet-epa-scientist-blake-schaeffer-phd). My research uses satellite remote sensing to assess water quality. 
