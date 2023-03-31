@@ -1,4 +1,4 @@
-![pic](https://peterwhitman.github.io/images/antlers.jpg)
+![pic](https://peterwhitman.github.io/images/may_trip.jpg)
 
 # About
 
