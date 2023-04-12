@@ -3,3 +3,11 @@ title: Peter Whitman's Personal Website
 author: Peter Whitman
 description: "Personal Website"
 keywords: "remote sensing, research, GIS, geospatial, water quality, image processing"
+social:
+  name: Peter Whitman
+  links:
+    - https://www.linkedin.com/in/peter-whitman/
+    - https://github.com/peterwhitman
+    - https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=LsvNktAAAAAJ
+    - https://orcid.org/0000-0001-9207-0177
+
