@@ -14,5 +14,6 @@ social:
     - https://www.researchgate.net/profile/Peter-Whitman-2
 webmaster_verifications:
   google: gCAElCtvSFWnGWFBRbIu8a8Wsf2ieZ_ENA-alOp8cMk
-
+gems:
+  - jekyll-seo-tag
 
