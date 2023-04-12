@@ -1,8 +1,9 @@
 theme: jekyll-theme-minimal
-title: Peter Whitman's Personal Website
-author: Peter Whitman
+title: Peter Whitman
+tagline: Personal Website
 description: "Remote sensing researcher at the U.S. Environmental Protection Agency (EPA) Office of Research and Development"
 keywords: "remote sensing, research, GIS, geospatial, water quality, image processing"
+author: Peter Whitman
 social:
   name: Peter Whitman
   links:
