@@ -16,6 +16,7 @@ social:
 webmaster_verifications:
   google: gCAElCtvSFWnGWFBRbIu8a8Wsf2ieZ_ENA-alOp8cMk
   bing: E14272C61A07D159F6965258035068CE
-gems:
+plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 
