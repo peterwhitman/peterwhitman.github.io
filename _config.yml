@@ -1,9 +1,6 @@
 theme: jekyll-theme-minimal
 title: Peter Whitman
-description: Remote sensing researcher at the U.S. Environmental Protection Agency (EPA) Office of Research and Development
-keywords: ['remote sensing', 'research', 'GIS', 'geospatial', 'water quality', 'image processing', 'machine learning']
 author: Peter Whitman
-logo: 'https://github.com/peterwhitman/peterwhitman.github.io/images/headshot_square.JPG'
 social:
   name: Peter Whitman
   links:
