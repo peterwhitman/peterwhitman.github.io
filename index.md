@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Peter Whitman
+title: Personal Website
+image: 'https://github.com/peterwhitman/peterwhitman.github.io/images/PA281604.JPG'
 ---
 
 # About
