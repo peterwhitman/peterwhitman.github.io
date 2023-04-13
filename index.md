@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Personal Website | Peter Whitman
+title: Personal Website
 ---
 
 # About
