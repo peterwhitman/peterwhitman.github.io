@@ -7,5 +7,5 @@ I'm a solutions engineer at Planet Labs with expertise in remote sensing and geo
 
 ### Contact 
 
-Email: [peter.whitman@planet.com](peter.whitmaan@planet.com)
+Email: [peterjosephwhitman@gmail.com](peterjosephwhitman@gmail.com)
 
