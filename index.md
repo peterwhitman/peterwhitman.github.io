@@ -24,11 +24,12 @@ I'm a solutions engineer at Planet Labs with expertise in remote sensing and geo
   <a href="https://github.com/peterwhitman" class="follow">GitHub</a>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 30px;">
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="https://peterwhitman.github.io/logos/orcid.png" alt="orcid logo" width="20px" height="20px" style="margin-right: 10px;">
   <a href="https://orcid.org/0000-0001-9207-0177" class="follow">ORCiD</a>
 </div>
 
 ### Contact
-
-Email: [peterjosephwhitman@gmail.com](mailto:peterjosephwhitman@gmail.com)
+<p style="margin-top: 10px;">
+  Email: [peterjosephwhitman@gmail.com](mailto:peterjosephwhitman@gmail.com)
+</p>
