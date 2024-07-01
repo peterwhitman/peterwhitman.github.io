@@ -28,8 +28,8 @@ I'm a solutions engineer at Planet Labs with expertise in remote sensing and geo
   <a href="https://orcid.org/0000-0001-9207-0177" class="follow">ORCiD</a>
 </div>
 
-### Follow 
-<p style="margin-top: 10px;">
+### Contact
+<p style="margin-top: 20px;">
   Email: <a href="mailto:peterjosephwhitman@gmail.com">peterjosephwhitman@gmail.com</a>
 </p>
 
