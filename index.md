@@ -1,5 +1,4 @@
 ![Banner Photo](https://peterwhitman.github.io/images/may_trip.png)
-
 ## About
 
 I'm a solutions engineer at Planet Labs with expertise in remote sensing and geographic information science (GIS). I've led high-performance computing projects at the U.S. Environmental Protection Agency focused on satellite-based water quality monitoring, which resulted in numerous peer-reviewed articles that influenced federal and state policy decisions. I received a M.Sc. in Geography from the University of British Columbia and a B.A. in GIS and Environmental Science from Carthage College. I'm skilled in Python, R, JavaScript, and ESRI ArcGIS, with a strong background working in hybrid teams on data science projects.
