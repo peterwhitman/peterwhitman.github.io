@@ -30,6 +30,7 @@ I'm a solutions engineer at Planet Labs with expertise in remote sensing and geo
 
 
 ### Contact 
-
-Email: [peterjosephwhitman@gmail.com](peterjosephwhitman@gmail.com)
+<p style="margin-top: 10px;">
+  Email: <a href="mailto:peterjosephwhitman@gmail.com">peterjosephwhitman@gmail.com</a>
+</p>
 
