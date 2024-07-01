@@ -1,4 +1,4 @@
-![Banner Photo](https://peterwhitman.github.io/images/may_trip.png))
+![Banner Photo](https://peterwhitman.github.io/images/may_trip.png)
 
 ## About
 
