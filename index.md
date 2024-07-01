@@ -1,4 +1,4 @@
-<img src="https://peterwhitman.github.io/images/PC231891_copy.jpg" alt="Banner Photo" width="100%" height="300px">
+<img src="https://peterwhitman.github.io/images/PA281604.JPG" alt="Banner Photo" width="1596" height="396px">
 
 ## About
 
