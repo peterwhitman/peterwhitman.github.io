@@ -3,6 +3,7 @@
 I'm a solutions engineer at Planet Labs with expertise in remote sensing and geographic information science (GIS). I've led high-performance computing projects at the U.S. Environmental Protection Agency focused on satellite-based water quality monitoring, which resulted in numerous peer-reviewed articles that influenced federal and state policy decisions. I received a M.Sc. in Geography from the University of British Columbia and a B.A. in GIS and Environmental Science from Carthage College. I'm skilled in Python, R, JavaScript, and ESRI ArcGIS, with a strong background working in hybrid teams on data science projects.
 
 ### Follow
+
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
   <img src="https://peterwhitman.github.io/logos/google_scholar.png" alt="google scholar logo" width="20px" height="20px" style="margin-right: 10px;">
   <a href="https://scholar.google.com/citations?user=LsvNktAAAAAJ&hl=en&authuser=1" class="follow">Google Scholar</a>
@@ -29,7 +30,5 @@ I'm a solutions engineer at Planet Labs with expertise in remote sensing and geo
 </div>
 
 ### Contact
-<p style="margin-top: 20px;">
-  Email: <a href="mailto:peterjosephwhitman@gmail.com">peterjosephwhitman@gmail.com</a>
-</p>
 
+Email: [peterjosephwhitman@gmail.com](mailto:peterjosephwhitman@gmail.com)
