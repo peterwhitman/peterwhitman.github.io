@@ -1,7 +1,7 @@
-<div style="max-width: 1500px; margin: 0 auto;">
-  <figure style="text-align: center;">
-    <img src="https://peterwhitman.github.io/images/PC231891_copy.jpg" alt="Banner Photo" style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
-    <figcaption style="font-size: smaller; color: grey; text-align: center; margin-top: 10px;">
+<div style="text-align: center;">
+  <figure style="display: inline-block;">
+    <img src="https://peterwhitman.github.io/images/PC231891_copy.jpg" alt="Banner Photo" style="width: 100%; max-width: 100%; height: auto;">
+    <figcaption style="font-size: smaller; color: grey; text-align: center; max-width: 100%;">
       Cresting John Garner Pass in Torres del Paine National Park, Chile during a trek of the O Circuit in December 2015.
     </figcaption>
   </figure>
