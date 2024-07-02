@@ -1,4 +1,4 @@
-<div style="max-width: 800px; margin: 0 auto;">
+<div style="max-width: 1500px; margin: 0 auto;">
   <figure style="text-align: center;">
     <img src="https://peterwhitman.github.io/images/PC231891_copy.jpg" alt="Banner Photo" style="width: 100%; max-width: 100%; height: auto; display: block; margin: 0 auto;">
     <figcaption style="font-size: smaller; color: grey; text-align: center; margin-top: 10px;">
