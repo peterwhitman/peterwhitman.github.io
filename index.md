@@ -1,4 +1,7 @@
-<img src="https://peterwhitman.github.io/images/PC231891_copy.jpg" alt="Banner Photo" width="100%" height="auto">
+<figure>
+  <img src="https://peterwhitman.github.io/images/PC231891_copy.jpg" alt="Banner Photo" width="100%" height="auto">
+  <figcaption>Stunning sunset over the mountains, casting a warm glow on the landscape.</figcaption>
+</figure>
 
 ## About
 
