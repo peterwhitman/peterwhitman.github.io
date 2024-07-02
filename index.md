@@ -1,6 +1,6 @@
 <figure style="text-align: center;">
-  <img src="https://peterwhitman.github.io/images/PC231891_copy.jpg" alt="Banner Photo" width="100%" height="auto">
-  <figcaption style="font-size: smaller; color: grey; max-width: 100%; text-align: center;">
+  <img src="https://peterwhitman.github.io/images/PC231891_copy.jpg" alt="Banner Photo" style="width: auto; max-width: 100%; height: auto;">
+  <figcaption style="font-size: smaller; color: grey; text-align: center;">
     Stunning sunset over the mountains, casting a warm glow on the landscape.
   </figcaption>
 </figure>
